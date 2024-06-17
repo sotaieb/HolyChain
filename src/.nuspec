@@ -1,0 +1,13 @@
+<package>
+    <metadata>
+        <id>holychain</id>
+        <version>1.0.2</version>
+        <description>Chain of responsability implementation</description>
+        <authors>staieb</authors>
+        <readme>README.md</readme>
+        <repository type="git" url="https://github.com/sotaieb/HolyChain.git" branch="main" />
+    </metadata>
+    <files>    
+      <file src="..\README.md" target="" />    
+    </files>
+</package>
